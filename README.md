@@ -1,6 +1,8 @@
 # SnapStack
 Stackable modular board ecosystem for SNAP wireless microcontrollers.
 
+![image](https://cloud.githubusercontent.com/assets/1317406/5913551/97f6d3e8-a5ab-11e4-83e5-365e1bbba2ea.png)
+
 ## Ideas
  * The boards while use two rows of extra-tall headers to all the modules to stack.
  * All or most of the modules need to be compatible with each other
