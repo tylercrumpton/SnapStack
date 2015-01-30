@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by Cvpcb (2014-12-04 BZR 5312)-product   date = 1/30/2015 10:45:07 PM
+
+BeginCmp
+TimeStamp = /54CC5D1A;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CC5DFF;
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CC5CF1;
+Reference = U1;
+ValeurCmp = SnapStack;
+IdModule  = _CrumpPrints:SnapStack;
+EndCmp
+
+EndListe
